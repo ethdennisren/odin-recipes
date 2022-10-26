@@ -1,1 +1,2 @@
-# odin-recipes
+Complete The Odin Project's Recipe Assingment, homework, module.
+By the end of this lesson assignment/homework/module/quiz, I will be able to create a recipe website. I will reflect on the knowledge I have gathered after I return. 
